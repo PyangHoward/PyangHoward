@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @PyangHoward
 - 👀 I’m interested in Language testing, educational measurement, second language acquisation, and machine learning..
 - 🌱 I’m currently learning measurement theories..
+- Also, I love teaching statistics and measurement theories.
 - 💞️ I’m looking to collaborate on developing measurement theories...
 - 📫 If you feel interested in my work, you could reach out to me on the Web...
 
